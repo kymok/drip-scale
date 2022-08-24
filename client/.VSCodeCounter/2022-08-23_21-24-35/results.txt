@@ -1,0 +1,73 @@
+Date : 2022-08-23 21:24:35
+Directory : /Users/kymok/Documents/GitHub/drip-scale/client/src
+Total : 39 files,  2683 codes, 106 comments, 254 blanks, all 3043 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| TypeScript React |         17 |      1,586 |         53 |        122 |      1,761 |
+| TypeScript       |         17 |      1,032 |         30 |        116 |      1,178 |
+| CSS              |          2 |         62 |         23 |         16 |        101 |
+| XML              |          3 |          3 |          0 |          0 |          3 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                      | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                         |         39 |      2,683 |        106 |        254 |      3,043 |
+| DataAcquisitionController                                                                                 |          2 |         97 |          0 |         10 |        107 |
+| DataAcquisitionHandler                                                                                    |          9 |        520 |         18 |         66 |        604 |
+| DataReceiver                                                                                              |          8 |        536 |         19 |         50 |        605 |
+| Plotter                                                                                                   |          3 |        420 |         17 |         39 |        476 |
+| ReferenceCurveEditor                                                                                      |          3 |        519 |         13 |         43 |        575 |
+| Style                                                                                                     |          8 |        506 |         31 |         32 |        569 |
+| Style/buttonImage                                                                                         |          3 |          3 |          0 |          0 |          3 |
++-----------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                                  | language         | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/App.tsx                                               | TypeScript React |         24 |          0 |          3 |         27 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionController/PlotAreaController.tsx      | TypeScript React |         46 |          0 |          6 |         52 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionController/SidebarController.tsx       | TypeScript React |         51 |          0 |          4 |         55 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/calibrator.ts                  | TypeScript       |         38 |          0 |          4 |         42 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/daqModeStates.ts               | TypeScript       |         89 |          4 |         16 |        109 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/daqModeSubroutines.ts          | TypeScript       |         74 |          2 |          6 |         82 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/daqNewDataHandler.ts           | TypeScript       |        116 |         10 |         18 |        144 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/daqUtils.ts                    | TypeScript       |         27 |          2 |          3 |         32 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/history.ts                     | TypeScript       |         41 |          0 |          7 |         48 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/latestData.ts                  | TypeScript       |         35 |          0 |          5 |         40 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/plottableHistory.ts            | TypeScript       |         53 |          0 |          3 |         56 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/sensorProperties.ts            | TypeScript       |         47 |          0 |          4 |         51 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/DemoDataGenerator.tsx                    | TypeScript React |         79 |          4 |          8 |         91 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/DemoDataGeneratorSettings.tsx            | TypeScript React |         45 |          3 |          4 |         52 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/WebSerialConnectionHandler.tsx           | TypeScript React |        118 |          4 |         12 |        134 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/WebSerialConnectionSettings.tsx          | TypeScript React |         84 |          2 |          5 |         91 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/WebSocketConnectionHandler.tsx           | TypeScript React |         59 |          1 |          6 |         66 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/WebSocketConnectionSettings.tsx          | TypeScript React |         29 |          1 |          2 |         32 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/dataSourceStates.ts                      | TypeScript       |         66 |          1 |          9 |         76 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/index.tsx                                | TypeScript React |         56 |          3 |          4 |         63 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Plotter/HistoryPlotter.tsx                            | TypeScript React |        281 |         14 |         24 |        319 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Plotter/LiveValueIndicator.tsx                        | TypeScript React |         32 |          0 |          4 |         36 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Plotter/index.tsx                                     | TypeScript React |        107 |          3 |         11 |        121 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/ReferenceCurveEditor/index.tsx                        | TypeScript React |        137 |          7 |         14 |        158 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/ReferenceCurveEditor/referenceCurveOptionSelectors.ts | TypeScript       |        109 |          3 |          7 |        119 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/ReferenceCurveEditor/referenceCurveStates.ts          | TypeScript       |        273 |          3 |         22 |        298 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Style/buttonImage/decrement.svg                       | XML              |          1 |          0 |          0 |          1 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Style/buttonImage/increment.svg                       | XML              |          1 |          0 |          0 |          1 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Style/buttonImage/reset.svg                           | XML              |          1 |          0 |          0 |          1 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Style/contentArea.tsx                                 | TypeScript React |         98 |          0 |          4 |        102 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Style/index.css                                       | CSS              |         15 |          0 |          2 |         17 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Style/index.ts                                        | TypeScript       |         18 |          0 |          4 |         22 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Style/inputElements.tsx                               | TypeScript React |        325 |          8 |          8 |        341 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/Style/reset.css                                       | CSS              |         47 |         23 |         14 |         84 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/index.tsx                                             | TypeScript React |         15 |          3 |          3 |         21 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/react-app-env.d.ts                                    | TypeScript       |          0 |          1 |          1 |          2 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/reportWebVitals.ts                                    | TypeScript       |         13 |          0 |          3 |         16 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/setupTests.ts                                         | TypeScript       |          1 |          4 |          1 |          6 |
+| /Users/kymok/Documents/GitHub/drip-scale/client/src/utils.ts                                              | TypeScript       |         32 |          0 |          3 |         35 |
+| Total                                                                                                     |                  |      2,683 |        106 |        254 |      3,043 |
++-----------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

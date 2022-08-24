@@ -1,0 +1,8 @@
+"filename", "language", "JSON", "JSON with Comments", "HTML", "Markdown", "comment", "blank", "total"
+"/Users/kymok/Documents/GitHub/drip-scale/client/README.md", "Markdown", 0, 0, 0, -26, 0, -21, -47
+"/Users/kymok/Documents/GitHub/drip-scale/client/package-lock.json", "JSON", -29737, 0, 0, 0, 0, -1, -29738
+"/Users/kymok/Documents/GitHub/drip-scale/client/package.json", "JSON", -51, 0, 0, 0, 0, -1, -52
+"/Users/kymok/Documents/GitHub/drip-scale/client/public/index.html", "HTML", 0, 0, -20, 0, -23, -1, -44
+"/Users/kymok/Documents/GitHub/drip-scale/client/public/manifest.json", "JSON", -25, 0, 0, 0, 0, -1, -26
+"/Users/kymok/Documents/GitHub/drip-scale/client/tsconfig.json", "JSON with Comments", 0, -26, 0, 0, 0, -1, -27
+"Total", "-", -29813, -26, -20, -26, -23, -26, -29934

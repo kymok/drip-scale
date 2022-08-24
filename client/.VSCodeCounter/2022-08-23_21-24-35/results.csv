@@ -1,0 +1,41 @@
+"filename", "language", "TypeScript React", "TypeScript", "CSS", "XML", "comment", "blank", "total"
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/App.tsx", "TypeScript React", 24, 0, 0, 0, 0, 3, 27
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionController/PlotAreaController.tsx", "TypeScript React", 46, 0, 0, 0, 0, 6, 52
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionController/SidebarController.tsx", "TypeScript React", 51, 0, 0, 0, 0, 4, 55
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/calibrator.ts", "TypeScript", 0, 38, 0, 0, 0, 4, 42
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/daqModeStates.ts", "TypeScript", 0, 89, 0, 0, 4, 16, 109
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/daqModeSubroutines.ts", "TypeScript", 0, 74, 0, 0, 2, 6, 82
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/daqNewDataHandler.ts", "TypeScript", 0, 116, 0, 0, 10, 18, 144
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/daqUtils.ts", "TypeScript", 0, 27, 0, 0, 2, 3, 32
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/history.ts", "TypeScript", 0, 41, 0, 0, 0, 7, 48
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/latestData.ts", "TypeScript", 0, 35, 0, 0, 0, 5, 40
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/plottableHistory.ts", "TypeScript", 0, 53, 0, 0, 0, 3, 56
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataAcquisitionHandler/sensorProperties.ts", "TypeScript", 0, 47, 0, 0, 0, 4, 51
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/DemoDataGenerator.tsx", "TypeScript React", 79, 0, 0, 0, 4, 8, 91
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/DemoDataGeneratorSettings.tsx", "TypeScript React", 45, 0, 0, 0, 3, 4, 52
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/WebSerialConnectionHandler.tsx", "TypeScript React", 118, 0, 0, 0, 4, 12, 134
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/WebSerialConnectionSettings.tsx", "TypeScript React", 84, 0, 0, 0, 2, 5, 91
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/WebSocketConnectionHandler.tsx", "TypeScript React", 59, 0, 0, 0, 1, 6, 66
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/WebSocketConnectionSettings.tsx", "TypeScript React", 29, 0, 0, 0, 1, 2, 32
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/dataSourceStates.ts", "TypeScript", 0, 66, 0, 0, 1, 9, 76
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/DataReceiver/index.tsx", "TypeScript React", 56, 0, 0, 0, 3, 4, 63
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Plotter/HistoryPlotter.tsx", "TypeScript React", 281, 0, 0, 0, 14, 24, 319
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Plotter/LiveValueIndicator.tsx", "TypeScript React", 32, 0, 0, 0, 0, 4, 36
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Plotter/index.tsx", "TypeScript React", 107, 0, 0, 0, 3, 11, 121
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/ReferenceCurveEditor/index.tsx", "TypeScript React", 137, 0, 0, 0, 7, 14, 158
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/ReferenceCurveEditor/referenceCurveOptionSelectors.ts", "TypeScript", 0, 109, 0, 0, 3, 7, 119
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/ReferenceCurveEditor/referenceCurveStates.ts", "TypeScript", 0, 273, 0, 0, 3, 22, 298
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Style/buttonImage/decrement.svg", "XML", 0, 0, 0, 1, 0, 0, 1
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Style/buttonImage/increment.svg", "XML", 0, 0, 0, 1, 0, 0, 1
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Style/buttonImage/reset.svg", "XML", 0, 0, 0, 1, 0, 0, 1
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Style/contentArea.tsx", "TypeScript React", 98, 0, 0, 0, 0, 4, 102
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Style/index.css", "CSS", 0, 0, 15, 0, 0, 2, 17
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Style/index.ts", "TypeScript", 0, 18, 0, 0, 0, 4, 22
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Style/inputElements.tsx", "TypeScript React", 325, 0, 0, 0, 8, 8, 341
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/Style/reset.css", "CSS", 0, 0, 47, 0, 23, 14, 84
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/index.tsx", "TypeScript React", 15, 0, 0, 0, 3, 3, 21
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/react-app-env.d.ts", "TypeScript", 0, 0, 0, 0, 1, 1, 2
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/reportWebVitals.ts", "TypeScript", 0, 13, 0, 0, 0, 3, 16
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/setupTests.ts", "TypeScript", 0, 1, 0, 0, 4, 1, 6
+"/Users/kymok/Documents/GitHub/drip-scale/client/src/utils.ts", "TypeScript", 0, 32, 0, 0, 0, 3, 35
+"Total", "-", 1586, 1032, 62, 3, 106, 254, 3043
